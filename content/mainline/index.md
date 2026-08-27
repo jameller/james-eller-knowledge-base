@@ -1,0 +1,3 @@
+---
+title: Mainline Franchise Entries
+---
