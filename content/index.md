@@ -9,3 +9,5 @@ This is a knowledge base about the entries in the illustrious Final Fantasy vide
 - [[spinoff/index|Spin-off Games]]
 - [[tactics/index|Final Fantasy Tactics Lineage]]
 - [[update/index|Remasters, Remakes, and Substantial Ports]]
+## Traditional Link
+[Mainline Franchise Entries](./mainline/index.md)
