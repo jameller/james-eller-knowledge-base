@@ -5,9 +5,11 @@ aliases:
   - Final Fantasy VI
   - FFVI
 ---
->[!note] Released Originally In North America as Final Fantasy III
 # Box Art
 ## North America Cover Image
+
+>[!note] Released Originally In North America as Final Fantasy III
+
 ![](https://images.launchbox-app.com//6504fd85-ab13-47f1-b600-1954a91c7696.jpg)
 ## North American Back of Box Blurb
 >MagiTek has been reborn. And the end of the world is near.
