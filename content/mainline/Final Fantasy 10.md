@@ -5,29 +5,6 @@ aliases:
   - Final Fantasy X
   - FFX
 ---
-# Metadata
-## Official Title
-Final Fantasy X
-## Developer
-Square Product Development Division 1
-## Publishers
-### Japan
-- Square
-### North America
-- Square Electronic Arts
-### PAL Regions
-- Sony Computer Entertainment
-## Platform
-- PlayStation 2
-## Release
-### Japan
-- 2001-07-19
-### North America
-- 2001-12-18
-### Australia
-- 2002-05-17
-### Eurpoean Union
-- 2002-05-24
 # Box Art
 ## North America Cover Image
 ![](https://images.launchbox-app.com/0ac3558d-5e4a-4515-8384-a9939928610c.jpg)
@@ -50,3 +27,26 @@ Final Fantasy X is often regarded as a turning point in the franchise. The PlayS
 - [[Final Fantasy 09|Final Fantasy IX]]
 ## Followed By
 - Final Fantasy XI
+# Original Publishing Information
+## Official Title
+Final Fantasy X
+## Developer
+Square Product Development Division 1
+## Publishers
+### Japan
+- Square
+### North America
+- Square Electronic Arts
+### PAL Regions
+- Sony Computer Entertainment
+## Platform
+- PlayStation 2
+## Release
+### Japan
+- 2001-07-19
+### North America
+- 2001-12-18
+### Australia
+- 2002-05-17
+### Eurpoean Union
+- 2002-05-24

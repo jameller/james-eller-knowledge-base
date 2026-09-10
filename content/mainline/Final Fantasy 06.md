@@ -6,17 +6,6 @@ aliases:
   - FFVI
 ---
 >[!note] Released Originally In North America as Final Fantasy III
-# Metadata
-## Official Title
-Final Fantasy VI
-## Developer
-Square
-## Publishers
-- Square
-## Platform
-- Super Nintendo Entertainment System
-## Release
-- 1994-04-02
 # Box Art
 ## North America Cover Image
 ![](https://images.launchbox-app.com//6504fd85-ab13-47f1-b600-1954a91c7696.jpg)
@@ -40,3 +29,14 @@ Final Fantasy VI is the last entry in the pixelated era of the franchise. It beg
 - Final Fantasy V
 ## Followed By
 - [[Final Fantasy 07|Final Fantasy VII]]
+# Original Publishing Information
+## Official Title
+Final Fantasy VI
+## Developer
+Square
+## Publishers
+- Square
+## Platform
+- Super Nintendo Entertainment System
+## Release
+- 1994-04-02

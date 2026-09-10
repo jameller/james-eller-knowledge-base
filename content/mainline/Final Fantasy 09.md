@@ -5,24 +5,6 @@ aliases:
   - Final Fantasy IX
   - FFIX
 ---
-# Metadata
-## Official Title
-Final Fantasy IX
-## Developer
-Square
-## Publishers
-### Japan
-- Square
-### North America
-- Square Electronic Arts
-### European Union
-- Square Europe
-### World Wide
-- Square Enix
-## Platform
-- PlayStation
-## Release
-- 2000-07-07
 # Box Art
 ## North America Cover Image
 ![](https://images.launchbox-app.com//869d86aa-5cec-455a-b278-d8e711ed3cc1.jpg)
@@ -40,3 +22,21 @@ Final Fantasy IX has a mixed reputation. For some, it’s considered the purest 
 - [[Final Fantasy 08|Final Fantasy VIII]]
 ## Followed By
 - [[Final Fantasy 10|Final Fantasy X]]
+# Original Publishing Information
+## Official Title
+Final Fantasy IX
+## Developer
+Square
+## Publishers
+### Japan
+- Square
+### North America
+- Square Electronic Arts
+### European Union
+- Square Europe
+### World Wide
+- Square Enix
+## Platform
+- PlayStation
+## Release
+- 2000-07-07

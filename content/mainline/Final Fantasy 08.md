@@ -5,20 +5,6 @@ aliases:
   - Final Fantasy VIII
   - FFVIII
 ---
-# Metadata
-## Official Title
-Final Fantasy VIII
-## Developer
-Square
-## Publishers
-### World Wide
-- Square
-### North America
-- Square Electronic Arts
-## Platform
-- PlayStation
-## Release
-- 1999-02-11
 # Box Art
 ## North America Cover Image
 ![](https://images.launchbox-app.com//ffa23d8d-12b2-49d0-935e-b9158e5a7f44.jpg)
@@ -36,3 +22,17 @@ Final Fantasy VIII is generally looked down upon and considered the punching bag
 - [[Final Fantasy 07|Final Fantasy VII]]
 ## Followed By
 - [[Final Fantasy 09|Final Fantasy IX]]
+# Original Publishing Information
+## Official Title
+Final Fantasy VIII
+## Developer
+Square
+## Publishers
+### World Wide
+- Square
+### North America
+- Square Electronic Arts
+## Platform
+- PlayStation
+## Release
+- 1999-02-11

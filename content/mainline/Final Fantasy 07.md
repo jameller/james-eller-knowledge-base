@@ -5,20 +5,6 @@ aliases:
   - Final Fantasy VII
   - FFVII
 ---
-# Metadata
-## Official Title
-Final Fantasy VII
-## Developer
-Square
-## Publishers
-### Japan
-- Square
-### World Wide
-- Sony Computer Entertainment
-## Platform
-- PlayStation
-## Release
-- 1997-01-31
 # Box Art
 ## North America Cover Image
 ![](https://gamesdb-images.launchbox.gg/r2_809dbd84-313e-4408-94f3-726899fe26c4.jpg)
@@ -40,3 +26,17 @@ Final Fantasy VII is no longer simply an entry, it’s spawned a franchise of it
 - [[Final Fantasy 06|Final Fantasy VI]]
 ## Followed By
 - [[Final Fantasy 08|Final Fantasy VIII]]
+# Original Publishing Information
+## Official Title
+Final Fantasy VII
+## Developer
+Square
+## Publishers
+### Japan
+- Square
+### World Wide
+- Sony Computer Entertainment
+## Platform
+- PlayStation
+## Release
+- 1997-01-31
