@@ -7,7 +7,8 @@ aliases:
 ---
 # Box Art
 ## North America Cover Image
-![](https://images.launchbox-app.com/0ac3558d-5e4a-4515-8384-a9939928610c.jpg)
+
+![[ff10-cover-us.jpg]]
 ## North American Back of Box Blurb
 > THE WORLD LIES ON THE BRINK OF DESTRUCTION
 > 

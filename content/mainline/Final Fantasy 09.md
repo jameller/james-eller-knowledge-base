@@ -7,7 +7,8 @@ aliases:
 ---
 # Box Art
 ## North America Cover Image
-![](https://images.launchbox-app.com//869d86aa-5cec-455a-b278-d8e711ed3cc1.jpg)
+
+![[ff09-cover-us.jpg]]
 ## North American Back of Box Blurb
 > THE CRYSTAL COMES BACK
 # Significance

@@ -7,7 +7,8 @@ aliases:
 ---
 # Box Art
 ## North America Cover Image
-![](https://gamesdb-images.launchbox.gg/r2_809dbd84-313e-4408-94f3-726899fe26c4.jpg)
+
+![[ff07-cover-us.jpg]]
 ## North American Back of Box Blurb
 > An epic adventure across 3 cd-roms.
 > 

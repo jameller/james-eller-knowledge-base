@@ -7,7 +7,8 @@ aliases:
 ---
 # Box Art
 ## North America Cover Image
-![](https://images.launchbox-app.com//ffa23d8d-12b2-49d0-935e-b9158e5a7f44.jpg)
+
+![[ff08-cover-us.jpg]]
 ## North American Back of Box Blurb
 > A member of an elite military team, Squall is forced into a conflict beyond imagination. To survive, he must contend with a desperate rival, a powerful sorceress, and his own mysterious dreams.
 # Significance
