@@ -1,5 +1,6 @@
 ---
 title: Final Fantasy VI
+date: 2026-09-28
 aliases:
   - FF6
   - Final Fantasy VI
@@ -10,7 +11,9 @@ aliases:
 
 >[!note] Released Originally In North America as Final Fantasy III
 
-![[ff06-cover-us.jpg]]
+![[ff06-cover.jpg]]
+
+*Cover art: [The Cover Project](https://www.thecoverproject.net/view.php?game_id=12919).*
 ## North American Back of Box Blurb
 
 >MagiTek has been reborn. And the end of the world is near.
@@ -22,27 +25,37 @@ aliases:
 >Who or what is behind the rediscovery and redeployment of this legendary power? What chaotic plans exist that will wreak havoc on this orderly world?
 # Manual
 
-![[ff06-manual-us.pdf]]
+>[!note] Released Originally In North America as Final Fantasy III
+
+![[ff06-manual.pdf]]
+
+*Game Manual: [Vimm's Lair](https://vimm.net/manual/1781).*
 # Significance
-Final Fantasy VI is the last entry in the pixelated era of the franchise. It begins unlike any of the previous entries, with a truly cinematic introduction. There are roughly 5 minutes between the cutscene beginning and the player taking control. In this time we’re given exposition, character-introductions, and a fully animated sequence leading up to initial gameplay. Other games in the series had short introductory segments, but this game is qualitatively different in that it presents itself with all the gravitas of a Hollywood film. The franchise’s cinematic trajectory started here. The story has a wide range of characters and the player’s viewpoint is always shifting. There is no single protagonist that the player pilots as had become the standard in the genre. FF6 defies storytelling expectations in many other ways, but I’m going to avoid spoilers. While it may not have had the cultural impact of [[Final Fantasy 07|FF7]], it is undeniably a highpoint for the franchise; a can’t miss entry for franchise fans and newcomers.
+Final Fantasy VI is the last entry in the pixelated era of the franchise. It begins unlike any of the previous entries, with a truly cinematic introduction. There are roughly 5 minutes between the cutscene beginning and the player taking control. In this time we’re given exposition, character-introductions, and a fully animated sequence leading up to initial gameplay. Other games in the series had short introductory segments, but this game is qualitatively different in that it presents itself with all the gravitas of a Hollywood film. The franchise’s cinematic trajectory really started here. The story has a wide range of characters and the player’s viewpoint is always shifting. There is no single protagonist that the player pilots as had become the standard in the genre. FF6 defies storytelling expectations in many other ways, but I’m going to avoid spoilers. While it may not have had the cultural impact of [[Final Fantasy 07|FF7]], it is undeniably a highpoint for the franchise; a can’t miss entry for franchise fans and newcomers.
 # New or Unique Features
 - Magicite/Esper System
 - Shifting Protagonist
 - Fixed Character Classes
 - Cinematic Cutscenes
 # Franchise Lineage
-## Preceeded By
-- Final Fantasy V
+## Preceded By
+**[[Final Fantasy 05|Final Fantasy V]]**
 ## Followed By
-- [[Final Fantasy 07|Final Fantasy VII]]
-# Original Publishing Information
-## Official Title
-Final Fantasy VI
+**[[Final Fantasy 07|Final Fantasy VII]]**
+# Publishing Information
+*Publishing Data: [Moby Games](https://www.mobygames.com/game/5202/final-fantasy-iii/releases/#snes).*
 ## Developer
-Square
-## Publishers
-- Square
+**Square Co., Ltd.**
 ## Platform
-- Super Nintendo Entertainment System
-## Release
-- 1994-04-02
+**Super Nintendo Entertainment System**
+## Release Information
+## Japan
+### Publisher
+**Square Co., Ltd.**
+### Date
+**Apr 2, 1994**
+## North America
+### Publisher
+**Square Soft, Inc.**
+## Date
+**Oct 1994**
