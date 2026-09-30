@@ -49,8 +49,6 @@ Square Enix recently published an interview with one of the creators of Final Fa
 **[[Final Fantasy 05|Final Fantasy V]]**
 ## Updated Versions
 **[[Final Fantasy 04 - 3D Remake|DS Remake]]**
-## Alternative Versions
-
 # Publishing Information
 *Publishing Data: [Moby Games](https://www.mobygames.com/game/4572/final-fantasy-ii/releases/#snes).*
 ## Developer
