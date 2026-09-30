@@ -21,6 +21,7 @@ date: 2026-09-29
 >-In-game interactive manual
 >-Only on PlayStation
 
+*Transcribed from the cover image by me*
 # Manual
 
 ![[fft-manual.pdf]]

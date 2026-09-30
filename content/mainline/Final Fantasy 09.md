@@ -14,6 +14,8 @@ aliases:
 *Cover art: [The Cover Project](https://www.thecoverproject.net/view.php?cover_id=13385).*
 ## North American Back of Box Blurb
 > THE CRYSTAL COMES BACK
+
+*Transcribed from the cover image by me*
 # Manual
 
 ![[ff09-manual-us.pdf]]

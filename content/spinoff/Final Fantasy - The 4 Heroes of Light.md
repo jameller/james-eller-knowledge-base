@@ -20,6 +20,8 @@ aliases:
 >- Master the new *Action Point Battle System!*
 >- Customize your heroes with dozens of jobs, weapons and armor!
 
+*Transcribed from the cover image by me*
+
 # Manual
 
 >[!note] I was unable to locate a PDF copy of the manual but [here is a link to a photo carousel hosted on the Internet Archive](https://archive.org/details/image-023-stitch/Image001.jpg).

@@ -23,6 +23,8 @@ aliases:
 >Centuries have passed and a rational world now exists with Espers living only in myths, until one frozen solid since the ancient wars is unearthed. Suddenly, there are reports of magical attacks on civilians. Imperial Commandos launch raids using magic-powered MagiTek weapons. Magic is obviously alive and the world is in danger again.
 >
 >Who or what is behind the rediscovery and redeployment of this legendary power? What chaotic plans exist that will wreak havoc on this orderly world?
+
+*Transcribed from the cover image by me*
 # Manual
 
 >[!note] Released Originally In North America as Final Fantasy III

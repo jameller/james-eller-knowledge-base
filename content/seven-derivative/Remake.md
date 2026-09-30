@@ -18,6 +18,7 @@ aliases:
 >
 >The story of this first, standalone game in the FINAL FANTASY VII REMAKE project covers up to the party's escape from Midgar and goes deeper in to the events occurring in the city than the original FINAL FANTASY VII.
 
+*Transcribed from the cover image by me*
 # Manual
 
 >[!note] I have been unable to locate a copy of the original game manual.

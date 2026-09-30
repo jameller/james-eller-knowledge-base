@@ -22,6 +22,8 @@ aliases:
 > - REAL-TIME FACIAL EXPRESSIONS
 > - COMPLETE 3D ENVIRONMENTS
 > - NEWLY DESIGNED BATTLE SYSTEM
+
+*Transcribed from the cover image by me*
 # Manual
 
 ![[ff10-manual-us.pdf]]

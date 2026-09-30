@@ -20,6 +20,7 @@ date: 2026-09-29
 >
 >Free strategy guide available for a limited time with mail-in coupon. See inside for details.
 
+*Transcribed from the cover image by me*
 # Manual
 
 ![[ffmq-manual.pdf]]

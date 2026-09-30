@@ -21,6 +21,7 @@ aliases:
 >- Witness gorgeous all-new CG cutscenes
 >- Updated battle system retains its original feel while elevating visual effects to an entirely new level.
 
+*Transcribed from the cover image by me*
 # Manual
 
 ![[ff4r-manual.pdf]]

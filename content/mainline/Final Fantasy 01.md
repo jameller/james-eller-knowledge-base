@@ -22,6 +22,8 @@ aliases:
 >Come, begin your quest. Enter an enchanted new World. Command your warriors! Prepare to face the Final Fantasy!
 >
 >A world shrouded in the darkness of evil. Your mission–to restore the light!
+
+*Transcribed from the cover image by me*
 # Manual
 
 ![[ff01-manual.pdf]]

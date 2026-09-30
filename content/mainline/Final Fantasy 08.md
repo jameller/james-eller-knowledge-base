@@ -20,6 +20,8 @@ aliases:
 > - An epic story based on the theme of love, set in a massive new world
 > - New Junction System allows characters to be customized with powerful magic spells drawn from enemies
 > - Nearly an hour of stunning motion-captured CG cinemas seamlessly integrated into gameplay
+
+*Transcribed from the cover image by me*
 # Manual
 
 ![[ff08-manual-us.pdf]]

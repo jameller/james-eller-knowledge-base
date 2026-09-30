@@ -18,6 +18,7 @@ date: 2026-09-29
 >- Countless weapons, items, magic spells, and special skills allow for incredible gameplay depth and strategy.
 >- Contains bonus music CD featuring favorite scores from both games.
 
+*Transcribed from the cover image by me*
 # Manual
 
 ![[ffa-manual.pdf]]

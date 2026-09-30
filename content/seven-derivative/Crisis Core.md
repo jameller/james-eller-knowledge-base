@@ -13,6 +13,8 @@ date: 2026-09-29
 >- THE EVENTS LEADING UP TO FINAL FANTASY VII ARE REVEALED
 >- DEFEAT YOUR FOES USING THE POWER OF MATERIA!
 
+*Transcribed from the cover image by me*
+
 # Manual
 
 ![[cc-manual.pdf]]

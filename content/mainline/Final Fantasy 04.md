@@ -22,6 +22,8 @@ aliases:
 >As our adventure begins, Cecil and his squadron are ordered to steal a powerful crystal from a rival kingdom. Upon their return, Cecil questions the King’s orders and is stripped of his command. To prove his loyalty, he must slay a dreadful monster and deliver a mysterious package to a neighboring town. But when the package explodes, destroying everyone, Cecil and his friend Kain vow to fight the King’s dark forces. Will you be able to save the world from their evil plan to control the crystals?
 >
 >Get ready for the most challenging role-playing adventure ever.
+
+*Transcribed from the cover image by me*
 # Manual
 
 >[!note] Released Originally In North America as Final Fantasy II

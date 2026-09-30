@@ -16,17 +16,14 @@ date: 2026-09-29
 >Testing out speedy new vehicles, Chocobo and Mog set out to collect pieces of the legendary Blue Crystal, which they can only gather by winning hair-raising races against their FINAL FANTASY friends!
 >
 >- Control 8 unique vehicles and select from magical abilities like "Dash" or "Barrier".
->  
 >- Use offensive magic such as fireballs and thunder to stop opponents.
->    
 >- Race head-to-head in VS. and Relay modes - a total of five different modes.
+>- Unlock hidden characters and tracks.
+>- Customize a character in Edit Parameters Mode after completing Story Mode.
 >  
-> - Unlock hidden characters and tracks.
->   
->  - Customize a character in Edit Parameters Mode after completing Story Mode.
->    
->    Includes a non-interactive demo of Chocobo's very own RPG - Chocobo's Dungeon 2!
+ Includes a non-interactive demo of Chocobo's very own RPG - Chocobo's Dungeon 2!
 
+*Transcribed from the cover image by me based on [Moby Games](https://www.mobygames.com/game/6185/chocobo-racing/cover/group-7490/cover-192085/) back cover image*
 # Manual
 
 ![[cr-manual.pdf]]

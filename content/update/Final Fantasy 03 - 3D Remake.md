@@ -21,6 +21,8 @@ aliases:
 >Communicate with your friends and unlock hidden challenges over Mognet using the Nintendo DS Wi-Fi Connection. Enlist the aid of allies, providing guidance to your party and support in battle.
 >
 >Restore the light, return balance to the world. Witness the rebirth of a new Fantasy.
+
+*Transcribed from the cover image by me*
 # Manual
 
 >[!note] I was unable to find a downloadable PDF copy of the manual, but [here is a copy of it on SCRIBD](https://www.scribd.com/document/515756954/Final-Fantasy-III-DS-Manual).

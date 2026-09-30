@@ -12,6 +12,7 @@ date: 2026-09-29
 >
 >When Marche and his friends open an ancient magical tome, their small town is transformed into  a fantasy-filled kingdom known as Ivalice. Now, Marche must take up the sword and master the arts of war if he has any hope of returning home. Guide Marche and his clan against countless foes in tactical combat and discover the wonders of Ivalice. How will you restore your town to normal... and do you even want to?
 
+*Transcribed from the cover image by me*
 # Manual
 
 ![[ffta-manual.pdf]]
