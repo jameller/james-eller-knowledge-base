@@ -1,5 +1,5 @@
 ---
-title: Crisis Core':' Final Fantasy VII
+title: "Crisis Core: Final Fantasy VII"
 date: 2026-09-29
 ---
 # North American Box Art

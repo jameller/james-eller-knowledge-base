@@ -1,10 +1,10 @@
 ---
-title: Final Fantasy':' The 4 Heroes of Light
+title: "Final Fantasy: The 4 Heroes of Light"
 date: 2026-09-29
 aliases:
   - 4 Heroes of Light
   - 4hol
-  - Final Fantasy: The 4 Heroes of Light
+  - "Final Fantasy: The 4 Heroes of Light"
 ---
 # North American Box Art
 ![[4hol-cover.jpg]]
