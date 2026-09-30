@@ -12,17 +12,13 @@ aliases:
 *Cover art: [The Cover Project](https://www.thecoverproject.net/view.php?game_id=8754).*
 ## North American Back of Box Blurb
 
->FOUR YOUNG HEROES, ONE AMAZING ADVENTURE!
+>THIS IS THE TALE OF THEIR LEGENDARY QUEST
 >
->When Brandt visits Castle Home on his fourteenth birthday, the last thing he expects is to be asked to rescue the King’s youngest daughter. Luckily, he is about to meet three other heroes who just might help him save the day - if only they could learn to work together…
+>In the small kingdom of Horne, Brandt awakes on the morning of his fourteenth birthday. Today is the day he becomes an adult, and the custom of the realm says that he must go to the castle to present himself to the king...
 >
->- Friends save the day!
->
->- Fight to the death!
->
->- Hatch the Egg!
->  
->  Featuring charming picture-book visuals, an all-new take on the classic FINAL FANTASY job system, intuitive controls, and 4-player local co-op, this adventure is fun for one, and more with four!
+>- Explore a beautiful storybook world!
+>- Master the new *Action Point Battle System!*
+>- Customize your heroes with dozens of jobs, weapons and armor!
 
 # Manual
 
