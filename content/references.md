@@ -16,3 +16,5 @@ title: References
 **[Moby Games](https://www.mobygames.com/)**
 # Interviews
 [Bravely Default: From Sequel to Sequel](https://www.gamespot.com/articles/bravely-default-from-sequel-to-sequel/1100-6417605/)
+
+[FINAL FANTASY IV 35th Anniversary Celebration & FINAL FANTASY X 25th Anniversary Celebration Special Interview!](https://na.finalfantasy.com/news/2831)

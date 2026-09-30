@@ -15,15 +15,10 @@ date: 2026-09-29
 >Fight hundreds of battles across dangerous 3D terrain as an ancient blood feud awakens a deadlier foe.
 >
 >- Command knights, mages, ninjas and more
->  
 >- Based on Final Fantasy characters and magic
->  
 >- 19 character classes; 400 abilities
->  
 >-Deep customization options
->
 >-In-game interactive manual
->
 >-Only on PlayStation
 
 # Manual

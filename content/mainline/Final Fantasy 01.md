@@ -30,7 +30,7 @@ aliases:
 # Significance
 The game that started it all. Rumor has it that the game was named as such because the developer, Square, was going under and this was their last ditch effort. Needless to say, their efforts paid off!
 
-I have never had the pleasure of playing this one on original hardware, but I have played a bit of its [[Final Fantasy 01 - Pixel Remaster|Pixel Remaster]] version. It is certainly old-school, but it's remarkable how much of its DNA can still be identified in even the newest games in the series. 
+I have never had the pleasure of playing this one on original hardware, but I have played a bit of its Pixel Remaster version. It is certainly old-school, but it's remarkable how much of its DNA can still be identified in even the newest games in the series. 
 # Franchise Lineage
 ## Followed By
 **[[Final Fantasy 02|Final Fantasy II]]**
