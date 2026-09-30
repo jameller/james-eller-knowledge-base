@@ -1,6 +1,8 @@
 ---
 title: "Crisis Core: Final Fantasy VII"
 date: 2026-09-29
+aliases:
+  - "Crisis Core: Final Fantasy VII"
 ---
 # North American Box Art
 ![[cc-cover.jpg]]
