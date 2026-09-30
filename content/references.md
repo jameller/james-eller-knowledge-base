@@ -1,3 +1,6 @@
+---
+title: References
+---
 # Cover Art Images
 
 **[The Cover Project](https://www.thecoverproject.net/index.php)**
