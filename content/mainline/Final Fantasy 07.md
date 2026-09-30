@@ -43,13 +43,9 @@ Final Fantasy VII is no longer simply an entry, it’s spawned a franchise of it
 ## Platform
 **PlayStation**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Jan 31, 1997**
-## USA
-### Publisher
-**Sony Computer Entertainment America Inc.**
-### Date
-**Aug 31, 1997**
+
+| Country | Publisher                                | Date         |
+| ------- | ---------------------------------------- | ------------ |
+| Japan   | Square Co., Ltd.                         | Jan 31, 1997 |
+| US      | Sony Computer Entertainment America Inc. | Aug 31, 1998 |
+| Europe  | Sony Computer Entertainment Europe Ltd.  | Nov 1997     |

@@ -34,8 +34,7 @@ Sequels from this time have a reputation for being non-standard and Final Fantas
 ## Platform
 **Nintendo Entertainment System**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Dec 17, 1988**
+
+| Country | Publisher        | Date         |
+| ------- | ---------------- | ------------ |
+| Japan   | Square Co., Ltd. | Dec 17, 1988 |

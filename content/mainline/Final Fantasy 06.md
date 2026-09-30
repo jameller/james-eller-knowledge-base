@@ -42,6 +42,8 @@ Final Fantasy VI is the last entry in the pixelated era of the franchise. It beg
 **[[Final Fantasy 05|Final Fantasy V]]**
 ## Followed By
 **[[Final Fantasy 07|Final Fantasy VII]]**
+## Updated Versions
+**[[Final Fantasy Anthology]]**
 # Publishing Information
 *Publishing Data: [Moby Games](https://www.mobygames.com/game/5202/final-fantasy-iii/releases/#snes).*
 ## Developer
@@ -49,13 +51,8 @@ Final Fantasy VI is the last entry in the pixelated era of the franchise. It beg
 ## Platform
 **Super Nintendo Entertainment System**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Apr 2, 1994**
-## North America
-### Publisher
-**Square Soft, Inc.**
-## Date
-**Oct 1994**
+
+| Country       | Publisher         | Date        |
+| ------------- | ----------------- | ----------- |
+| Japan         | Square Co., Ltd.  | Apr 2, 1994 |
+| North America | Square Soft, Inc. | Oct 1994    |

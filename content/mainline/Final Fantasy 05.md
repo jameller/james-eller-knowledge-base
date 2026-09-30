@@ -29,6 +29,8 @@ There are rumors that, at this time in the development cycle, even numbered entr
 **[[Final Fantasy 04|Final Fantasy IV]]**
 ## Followed By
 **[[Final Fantasy 06|Final Fantasy VI]]**
+## Updated Versions
+**[[Final Fantasy Anthology]]**
 # Publishing Information
 *Publishing Data: [Moby Games](https://www.mobygames.com/game/4876/final-fantasy-v/releases/#snes).*
 ## Developer
@@ -36,8 +38,7 @@ There are rumors that, at this time in the development cycle, even numbered entr
 ## Platform
 **Super Nintendo Entertainment System**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Dec 6, 1992**
+
+| Country | Publisher        | Date        |
+| ------- | ---------------- | ----------- |
+| Japan   | Square Co., Ltd. | Dec 6, 1992 |

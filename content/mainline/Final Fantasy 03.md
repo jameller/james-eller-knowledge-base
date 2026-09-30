@@ -27,6 +27,8 @@ I have only ever played the 3D remake of this game. It’s a bit of a mystery to
 **[[Final Fantasy 02|Final Fantasy II]]**
 ## Followed By
 **[[Final Fantasy 04|Final Fantasy IV]]**
+## Updated Versions
+**[[Final Fantasy 03 - 3D Remake|DS Remake]]**
 # Publishing Information
 *Publishing Data: [Moby Games](https://www.mobygames.com/game/7322/final-fantasy-iii/releases/#nes).*
 ## Developer
@@ -34,13 +36,7 @@ I have only ever played the 3D remake of this game. It’s a bit of a mystery to
 ## Platform
 **Nintendo Entertainment System**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Apr 27, 1990**
-## USA
-### Publisher
-**Square Soft, Inc.**
-### Date
-**Nov 1991**
+
+| Country | Publisher        | Date         |
+| ------- | ---------------- | ------------ |
+| Japan   | Square Co., Ltd. | Apr 27, 1990 |

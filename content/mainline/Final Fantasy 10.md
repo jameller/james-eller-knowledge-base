@@ -41,7 +41,7 @@ Final Fantasy X is often regarded as a turning point in the franchise. The PlayS
 Square Enix recently published an interview with one of the creators of Final Fantasy X that offers some interesting behind the scenes highlights. The interview can be found [here](https://na.finalfantasy.com/news/2831) on the official Final Fantasy Portal site.
 # Subseries Lineage
 ## Direct Precursor To
-- Final Fantasy X-2
+**Final Fantasy X-2**
 # Franchise Lineage
 ## Preceded By
 **[[Final Fantasy 09|Final Fantasy IX]]**
@@ -56,13 +56,8 @@ Final Fantasy X
 ## Platform
 **PlayStation 2**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Jul 19, 2001**
-## USA
-### Publisher
-**Square Electronic Arts L.L.C.**
-### Date
-**Dec 26, 2001 Release**
+
+| Country       | Publisher                     | Date         |
+| ------------- | ----------------------------- | ------------ |
+| Japan         | Square Co., Ltd.              | Jul 19, 2001 |
+| North America | Square Electronic Arts L.L.C. | Dec 26, 2001 |

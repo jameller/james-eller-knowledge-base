@@ -38,13 +38,9 @@ Final Fantasy IX has a mixed reputation. For some, it’s considered the purest 
 ## Platform
 **PlayStation**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Jul 7, 2000**
-## North America
-### Publisher
-**Square Electronic Arts L.L.C.**
-### Date
-**Nov 14, 2000**
+
+| Country       | Publisher                     | Date         |
+| ------------- | ----------------------------- | ------------ |
+| Japan         | Square Co., Ltd.              | Jul 7, 2000  |
+| North America | Square Electronic Arts L.L.C. | Nov 14, 2000 |
+| Europe        | Square Europe, Ltd.           | Feb 16, 2001 |

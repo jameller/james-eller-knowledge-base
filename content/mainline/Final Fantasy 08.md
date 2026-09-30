@@ -47,13 +47,9 @@ Final Fantasy VIII is generally looked down upon and considered the punching bag
 ## Platform
 **PlayStation**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Feb 11, 1999**
-## USA
-### Publisher
-**Square Electronic Arts L.L.C.**
-### Date
-**Sep 9, 1999**
+
+| Country | Publisher                               | Date         |
+| ------- | --------------------------------------- | ------------ |
+| Japan   | Square Co., Ltd.                        | Feb 11, 1999 |
+| US      | Square Electronic Arts L.L.C.           | Sep 9, 1999  |
+| PAL     | Sony Computer Entertainment Europe Ltd. | Oct 1999     |

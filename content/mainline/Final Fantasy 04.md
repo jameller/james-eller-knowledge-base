@@ -45,6 +45,8 @@ Square Enix recently published an interview with one of the creators of Final Fa
 **[[Final Fantasy 03|Final Fantasy III]]**
 ## Followed By
 **[[Final Fantasy 05|Final Fantasy V]]**
+## Updated Versions
+**[[Final Fantasy 04 - 3D Remake|DS Remake]]**
 ## Alternative Versions
 
 # Publishing Information
@@ -54,13 +56,8 @@ Square Enix recently published an interview with one of the creators of Final Fa
 ## Platform
 **Super Nintendo Entertainment System**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Jul 19, 1991**
-## USA
-### Publisher
-**Square Co., Ltd**
-### Date
-**Nov 1991**
+
+| Country       | Publisher         | Date         |
+| ------------- | ----------------- | ------------ |
+| Japan         | Square Co., Ltd.  | Jul 19, 1991 |
+| North America | Square Soft, Inc. | Nov 1991     |

@@ -41,13 +41,8 @@ I have never had the pleasure of playing this one on original hardware, but I ha
 ## Platform
 **Nintendo Entertainment System**
 ## Release Information
-## Japan
-### Publisher
-**Square Co., Ltd.**
-### Date
-**Dec 18, 1987**
-## USA
-### Publisher
-**Nintendo of America Inc.**
-### Date
-**May 1990**
+
+| Country       | Publisher                | Date         |
+| ------------- | ------------------------ | ------------ |
+| Japan         | Square Co., Ltd.         | Dec 18, 1987 |
+| North America | Nintendo of America Inc. | May 1990     |
